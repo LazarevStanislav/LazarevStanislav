@@ -4,7 +4,7 @@
 ### Добро пожаловать на мой GitHub, меня зовут Станислав / Welcome to my GitHub, my name is Stanislav
 ### Я FrontEnd-разработчик / I'm a FrontEnd Developer
 
-<img src="./assets//icons8-computer-60.png"/>
+<img src="./assets/icon-developer-16.jpg" width="80"/>
 
 ### Технический стек / Tech Stack:
 
